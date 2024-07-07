@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1mQHdct2PELtehaTSg3xBHaHkQ/t7LD8njvjvwbSAXX2i13XRUznV5iytvhFdCI32w6zRCvdydzLZx4YWZOH4g==",
+  "dgSpecHash": "oZWf2ex/5bTwKYJt+18qncFRySlPYVdE3r3BM8VwBnjRB8FMOAIbDu8gvdo8LkvS9+hLqxBE/BZF8jFInNsrpQ==",
   "success": true,
   "projectFilePath": "F:\\DailyUpdates\\PragmatiCleanArchitecture\\BookiFy\\BookiFy.Domain\\BookiFy.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Suja\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
